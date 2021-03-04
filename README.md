@@ -8,6 +8,7 @@ This package is a collection of personal Houdini Digital Assets (HDA) and their 
 
 * **arnoldPref** : Creates a Pref attribute for shading work with Arnold
 * **colorFromVelocity** : Adds ramp color to points based on a velocity attribute
+* **fastMovingPyroSource** : Creates a burn/temperature pyro source from fast moving surface geometry
 * **insideUvs** : Deploys uv for fractured geometry inside faces based on a name attribute
 * **mayaHoudiniScale** : Scales geometries, VDB grids and particle attributes for import and export from Houdini to other DCCs
 * **raise** : Raises pieces with a piece attribute or particles with a pscale attribute to ground level
