@@ -2,7 +2,11 @@
   
 This package is a collection of personal Houdini Digital Assets (HDA) and their python module if any  
   
-## Overview  
+## Overview
+
+### OBJ
+
+* **hudInfo** : Displays context info (scene name, frame range, user name... etc) in specified camera that can be flipbooked and rendered
 
 ### SOP
 
