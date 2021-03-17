@@ -7,6 +7,9 @@ This package is a collection of personal Houdini Digital Assets (HDA) and their 
 ### OBJ
 
 * **hudInfo** : Displays context info (scene name, frame range, user name... etc) in specified camera that can be flipbooked and rendered
+# TODO : Add font parameter
+# TODO : Add node info : parm to select a node, groups and parm relative references returned in a dict then shown in text format.geometry
+# TODO : find a way for users to choose which parameter they want shown
 
 ### SOP
 
