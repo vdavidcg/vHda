@@ -13,6 +13,7 @@ This package is a collection of personal Houdini Digital Assets (HDA) and their 
 * **mayaHoudiniScale** : Scales geometries, VDB grids and particle attributes for import and export from Houdini to other DCCs
 * **raise** : Raises pieces with a piece attribute or particles with a pscale attribute to ground level
 * **vdbFromAnimatedCam** : Generates a single VDB from the frustrums of camera animated over time
+* **vdbNormalize** : Normalizes a VDB or volume grid from any values to a 0 to 1 range
 
 ### DOP
 
